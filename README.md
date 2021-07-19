@@ -1,4 +1,4 @@
-# music_recommender
+#Gnoosic
 
 ##Business goal and short summarise:
 We are presenting to GNOD a project for a new music recommendator, not only for bands, as they already have in Gnoosic, but also for songs for their users. The idea is to give users 2 new possibilities when searching for recommendations: songs that are similar to the ones they picked from an acoustic point of view, and songs that are popular around the world right now independently from their tastes.
